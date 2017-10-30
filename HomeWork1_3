@@ -21,5 +21,6 @@ public class HomeWork3Seven {
 		} else {
 			System.out.println("Better luck next time");
 		}
+		sc.close();
 	}
 }
